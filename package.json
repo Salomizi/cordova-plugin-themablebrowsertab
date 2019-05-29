@@ -1,9 +1,9 @@
 {
-    "name": "cordova-plugin-browsertab",
+    "name": "cordova-plugin-themeablebrowsertab",
     "version": "0.4.0",
     "description": "In-app browser tabs for Android and iOS",
     "cordova": {
-        "id": "cordova-plugin-browsertab",
+        "id": "cordova-plugin-themeablebrowsertab",
         "platforms": [
             "android"
         ]

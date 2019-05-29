@@ -1,1 +1,1 @@
-cordova-plugin-themablebrowsertab
+plugin/README.md

@@ -1,5 +1,7 @@
 # cordova-plugin-themeablebrowsertab
 
+Based on the plugin https://github.com/google/cordova-plugin-browsertab
+
 ## About
 
 This plugin provides an interface to in-app browser tabs that exist on some
